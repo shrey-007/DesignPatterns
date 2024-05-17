@@ -1,0 +1,1 @@
+Here we are passing the factory itself in the parameter to create object.
